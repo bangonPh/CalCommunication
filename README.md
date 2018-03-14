@@ -3,7 +3,7 @@
 1. Package: com.communication.app.MainCalculation.java (Main Java - Console Application)
 2. Read file name: promotion.log
 3. Promotion equals 'P1' to calculate.
-    * Baht for First minutes 
+    * 3 Baht for First minutes 
     * If grater than 1 minutes 0.05 Baht per Seconds.
 4. Write file name: promotion.json
 
