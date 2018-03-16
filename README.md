@@ -10,5 +10,5 @@
 
 # Section 2 (HTML/React)
 **Project Name : ReactWebCalCommunication**
-1. Read JSON File from Step 1.4 (promotion.json) 
+1. Read JSON File from Section 1 (Java) --> Step 4 (promotion.json)
 2. Main App: ReactWebCalCommunication/src/components/App/App.js
