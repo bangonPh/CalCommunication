@@ -109,7 +109,7 @@ public class MainCalculation {
 		
 		// 3 Baht for First minutes
 		// 0.05 Baht per seconds, If grater than 1 minutes
-		double pricePerMinutes = 3.0 / 60.0;
+		double pricePerMinutes = 1.0 / 60.0;
 		if (diffMinutes > 0 || diffHours > 0 || diffDays > 0) {
 			long totalSeconds = diffDays * (24 * 60 * 60); // 1 Days to 1,440 Minutes(24 Hours)
 			totalSeconds += diffHours * (60 * 60); // 1 Hours to 60 Minutes.
